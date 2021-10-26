@@ -1,4 +1,4 @@
-# fooderlich
+# Fooderlich
 
 A Social Recipe UI.
 
