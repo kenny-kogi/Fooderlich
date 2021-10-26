@@ -19,6 +19,13 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-<img src="./assets/screenshots/Card1.png" width="350" height="400" />
-<img src="./assets/screenshots/Card2.png" width="350" height="400"/>
-<img src="./assets/screenshots/Card3.png" width="350" height="400"/>
+<div class="screenshots">
+    <img src="./assets/screenshots/Card1.png" width="350"  />
+    <img src="./assets/screenshots/Card2.png" width="350" />
+    <img src="./assets/screenshots/Card3.png" width="350" />
+</div>
+
+.screenshots{
+display: flex;
+flex-direction: row;
+}
