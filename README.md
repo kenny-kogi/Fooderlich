@@ -1,6 +1,8 @@
 # fooderlich
 
-A new Flutter project.
+A Social Recipe UI.
+
+Just revising my flutter knowledge
 
 ## Getting Started
 
@@ -14,3 +16,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Screenshots
+
+<img src="./assets/screenshots/Card1.png" />
+<img src="./assets/screenshots/Card2.png" />
+<img src="./assets/screenshots/Card3.png" />
