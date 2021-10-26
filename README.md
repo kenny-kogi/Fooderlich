@@ -24,8 +24,3 @@ samples, guidance on mobile development, and a full API reference.
     <img src="./assets/screenshots/Card2.png" width="350" />
     <img src="./assets/screenshots/Card3.png" width="350" />
 </div>
-
-.screenshots{
-display: flex;
-flex-direction: row;
-}
